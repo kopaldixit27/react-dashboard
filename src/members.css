@@ -1,0 +1,23 @@
+.pic{
+    border-radius: 50%;
+}
+
+.positionOdd{
+    background: #e8fff7;
+    color:#00E38C;
+    padding: 1%;
+    border-radius: 15px;
+    font-size: 15px;
+    width: 25%;
+    text-align: center;
+}
+
+.positionEven{
+    background: #e7efff;
+    color:#4881FA;
+    padding: 1%;
+    border-radius: 15px;
+    font-size: 15px;
+    width: 25%;
+    text-align: center;
+}

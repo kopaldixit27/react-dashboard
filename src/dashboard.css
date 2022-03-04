@@ -1,0 +1,10 @@
+.dashboardContainer{
+    display: flex;
+
+}
+.sideBar{
+    width: 12%;
+}
+.mainPage{
+    width: 100%;
+}
